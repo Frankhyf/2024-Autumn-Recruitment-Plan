@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "d7f83347461f6788",
+    "type": "split",
+    "children": [
+      {
+        "id": "7686287a775a23f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "368b7b9d1f02b748",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "labuladong/2023-12-14 动态规划详解 斐波那契数列.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72b4fcd9a53a7470",
+    "type": "split",
+    "children": [
+      {
+        "id": "835954f2c21e41f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff95ed31ca5a07c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "260893070c624b41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f07147f49d11d1f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cc8ba108c49b275c",
+    "type": "split",
+    "children": [
+      {
+        "id": "690b5c5721ea34df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "125ea1aa710cde6f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "labuladong/2023-12-14 动态规划详解 斐波那契数列.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a1452af38ab43772",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "labuladong/2023-12-14 动态规划详解 斐波那契数列.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f4ef862e83d80aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d6529392efcd618a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "labuladong/2023-12-14 动态规划详解 斐波那契数列.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "ff95ed31ca5a07c8",
+  "lastOpenFiles": [
+    "20231211前端开发文档.md",
+    "labuladong/2023-12-14 动态规划详解 斐波那契数列.md",
+    "labuladong.md",
+    "labuladong",
+    "新建文件夹",
+    "面向秋招的微习惯养成计划.md"
+  ]
+}
