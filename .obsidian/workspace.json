@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "labuladong/2023-12-14 动态规划详解 斐波那契数列.md",
+                "file": "labuladong/2023-12-14 动态规划详解 斐波那契数列一.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cc8ba108c49b275c",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "labuladong/2023-12-14 动态规划详解 斐波那契数列.md",
+                "file": "labuladong/2023-12-14 动态规划详解 斐波那契数列一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "labuladong/2023-12-14 动态规划详解 斐波那契数列.md",
+                "file": "labuladong/2023-12-14 动态规划详解 斐波那契数列一.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "labuladong/2023-12-14 动态规划详解 斐波那契数列.md"
+                "file": "labuladong/2023-12-14 动态规划详解 斐波那契数列一.md"
               }
             }
           }
@@ -146,10 +147,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ff95ed31ca5a07c8",
+  "active": "368b7b9d1f02b748",
   "lastOpenFiles": [
     "20231211前端开发文档.md",
-    "labuladong/2023-12-14 动态规划详解 斐波那契数列.md",
+    "labuladong/2023-12-14 动态规划详解 斐波那契数列一.md",
     "labuladong.md",
     "labuladong",
     "新建文件夹",
