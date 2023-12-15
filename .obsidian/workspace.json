@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cc8ba108c49b275c",
@@ -149,11 +148,21 @@
   },
   "active": "368b7b9d1f02b748",
   "lastOpenFiles": [
-    "20231211前端开发文档.md",
+    "labuladong/2023-12-15 动态规划详解.md",
+    "java语法/chapter08/src/com/xiaoqiang/Dog.java",
+    "java语法/chapter08/src/com/xiaoqiang",
+    "java语法/chapter08/src/com/xiaoming/Dog.java",
+    "java语法/chapter08/src/com/xiaoming",
+    "java语法/chapter08/src/com/use/Test.java",
+    "java语法/chapter08/src/com/use",
+    "java语法/chapter08/src/com",
+    "java语法/chapter08/src/Main.java",
+    "java语法/chapter08/src",
+    "java语法/chapter08/out/production/chapter08/com/xiaoqiang/Dog.class",
+    "labuladong/2023-12-15 动态规划 凑零钱问题.md",
     "labuladong/2023-12-14 动态规划详解 斐波那契数列一.md",
+    "20231211前端开发文档.md",
     "labuladong.md",
-    "labuladong",
-    "新建文件夹",
     "面向秋招的微习惯养成计划.md"
   ]
 }
